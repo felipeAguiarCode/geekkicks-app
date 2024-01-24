@@ -1,0 +1,60 @@
+1. **feat:** 💡 Para adicionar uma nova funcionalidade ao código.
+   ```
+   git commit -m "feat(💡): Adicione uma nova página de perfil de usuário"
+   ```
+
+2. **fix:** 🐛 Para corrigir um bug ou problema existente.
+   ```
+   git commit -m "fix(🐛): Corrija o erro de validação do formulário de login"
+   ```
+
+3. **chore:** 🧹 Para tarefas de manutenção que não afetam diretamente o código do produto.
+   ```
+   git commit -m "chore(🧹): Atualize as dependências do projeto"
+   ```
+
+4. **docs:** 📚 Para atualizações ou adições à documentação.
+   ```
+   git commit -m "docs(📚): Adicione exemplos de uso na documentação do API"
+   ```
+
+5. **style:** 🎨 Para melhorias na formatação do código (sem alterações no comportamento do código).
+   ```
+   git commit -m "style(🎨): Ajuste a indentação nos arquivos JavaScript"
+   ```
+
+6. **refactor:** ♻️ Para refatorações de código que não introduzem novos recursos ou corrigem bugs.
+   ```
+   git commit -m "refactor(♻️): Simplifique a função de validação de e-mail"
+   ```
+
+7. **perf:** 🚀 Para melhorias de desempenho no código.
+   ```
+   git commit -m "perf(🚀): Otimize a consulta do banco de dados"
+   ```
+
+8. **test:** ✅ Para adicionar ou melhorar testes no código.
+   ```
+   git commit -m "test(✅): Adicione testes de unidade para a classe User"
+   ```
+
+9. **ci:** 🔄 Para atualizações relacionadas à configuração ou scripts de integração contínua.
+   ```
+   git commit -m "ci(🔄): Atualize a configuração do Travis CI"
+   ```
+
+10. **feat!:** 💥 Para adicionar uma nova funcionalidade importante que pode afetar o código existente.
+    ```
+    git commit -m "feat!(💥): Adicione autenticação de dois fatores"
+    ```
+
+11. **BREAKING CHANGE:** 💥 Para indicar uma mudança que quebra a compatibilidade com versões anteriores.
+    ```
+    git commit -m "BREAKING CHANGE(💥): Atualize a estrutura do banco de dados, é necessária uma migração"
+    ```
+
+12. **revert:** ⏪ Para reverter um commit anterior.
+    ```
+    git commit -m "revert(⏪): Reverta o commit xyz que causou problemas"
+    ```
+
