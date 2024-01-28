@@ -1,14 +1,11 @@
-<div align="center">
-    <img alt="Geekicks" title="#top" src=".github/gostack.png" width="250px" />
-</div>
 <h1 align="center">
-    <img alt="Geekicks" title="#top" src=".github/gobarber.png" width="250px" />
-    
+    <img alt="Geekicks" title="#top" src=".docs/assets/header.png"  />
 </h1>
 
 <h4 align="center">
   🚀 Projeto Geekicks
 </h4>
+  <p align="center">E-commerce de tênis ultra personalizados.</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/felipeAguiarCode/geekkicks-app">
@@ -75,6 +72,12 @@ $ npm run start
 ```
 
 Realizar os comandos acima para as demais pastas **[frontend e backend]**.
+
+## :bookmark_tabs: Documentação
+
+Esse projeto inclui uma pasta `docs` com mais detalhes sobre:
+
+1. [semantic.commits] (./docs/semantic.commits.md)
 
 ## :construction: Como contribuir para o projeto
 
