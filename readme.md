@@ -5,7 +5,7 @@
 <h4 align="center">
   🚀 Projeto Geekicks
 </h4>
-  <p align="center">E-commerce de tênis ultra personalizados.</p>
+  <p align="center">E-commerce de tênis ultra personalizados por IA.</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/felipeAguiarCode/geekkicks-app">
@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido para estudos pessoais. Trata-se de um projeto full
 ## 🎨 Layout
 
 <p align="center">
-    <img alt="GeekKicks" title="#GeekKicks" src=".github/capa.png" width="720px" />
+    <img alt="GeekKicks-preview" title="#GeekKicks" src=".github/capa.png" width="720px" />
 </p>
 
 Você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://www.figma.com/0)
@@ -49,8 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/) | [NestJs](https://nestjs.com)
-- [Angular](https://reactjs.org/)
-- [Docker](https://www.docker.com/)
+- [Angular](https://angular.dev/)
 - [PostgreSQL](https://www.postgresql.org/) | [TypeORM](https://typeorm.io/)
 
 ## :notebook: Executando
