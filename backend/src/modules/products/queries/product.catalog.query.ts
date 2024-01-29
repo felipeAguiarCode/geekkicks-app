@@ -1,6 +1,6 @@
 // src/queries/product.query.ts
 
-export const productQuery = `
+export const ProductQuery = `
   SELECT
     p.brand_id,
     p.brand_name,
