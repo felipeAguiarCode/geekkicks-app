@@ -16,7 +16,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/felipeAguiarCode/geekkicks-app">
   </a>
 
-  <a href="https://github.com/WallysonGalvao/rocketseat-gobarber/issues">
+  <a href="https://github.com/felipeAguiarCode/geekkicks-app/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/felipeAguiarCode/geekkicks-app">
   </a>
 
